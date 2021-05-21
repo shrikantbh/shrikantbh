@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrikant
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning Angular & Java
-- 📫 ssbhagwat12@gmail.com ...
+- 📫 ssbhagwat212@gmail.com ...
 
 <!---
 shrikantbh/shrikantbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
